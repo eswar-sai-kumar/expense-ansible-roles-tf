@@ -1,0 +1,6 @@
+login_user: root
+login_host: db-dev.eswarsaikumar.site
+login_password: ExpenseApp1
+DB_HOST: db-dev.eswarsaikumar.site
+BACKEND_API_URL: backend.app-dev.eswarsaikumar.site
+nexus_url: nexus.eswarsaikumar.site:8081
